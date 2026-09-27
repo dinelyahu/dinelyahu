@@ -1,42 +1,45 @@
 # Din Elyahu
 
-**AI & Data Science | M.Sc. Computer Science Student**
+**M.Sc. Computer Science Student | AI & Data Science**
 
-I build AI and data-driven systems, with a focus on machine learning, 
-computer vision, automation, and solving real-world problems with data.
+I build AI and data-driven systems with a focus on machine learning, computer vision, automation, and real-world data.
 
-Currently pursuing an M.Sc. in Computer Science at Bar-Ilan University.
+Currently pursuing an M.Sc. in Computer Science, specializing in AI & Data Science at Bar-Ilan University.
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Surgery Duration Prediction
+### 🏥 Surgery Duration Prediction
 Machine learning system for predicting ENT surgery duration using real-world clinical data from Hillel Yaffe Medical Center.
 
 `Python` `Machine Learning` `Data Analysis` `Feature Engineering`
 
-### AI-Powered E-Commerce Automation
+### 🤖 AI-Powered E-Commerce Automation
 Automated pipeline for enriching and optimizing thousands of e-commerce products using Python, Selenium, and LLMs — replacing months of manual work.
 
 `Python` `Selenium` `LLMs` `Automation`
 
-### Face Recognition System
-End-to-end computer vision system using MTCNN for face detection, FaceNet embeddings, and SVM classification.
+### ⚽ Football Player Face Recognition
+Computer vision system for classifying 831 football players using MTCNN, FaceNet embeddings, SVM, and fine-tuning.
 
-`Python` `Computer Vision` `FaceNet` `MTCNN` `SVM`
+`Python` `PyTorch` `Computer Vision` `FaceNet` `MTCNN`
 
-### AI Planning & Reinforcement Learning
+### 🧠 AI Planning & Reinforcement Learning
 Implementation and evaluation of search algorithms, MDPs, planning methods, and reinforcement learning agents.
 
-`Python` `Reinforcement Learning` `MDP` `A*`
+`Python` `Reinforcement Learning` `MDP` `A*` `AI Planning`
 
 ---
 
-## Tech
+## Tech Stack
 
-Python · SQL · PyTorch · Scikit-learn · Pandas · NumPy · OpenCV · Git
+**Languages:** Python · SQL  
+**ML & AI:** PyTorch · Scikit-learn · Pandas · NumPy · OpenCV  
+**Tools:** Git · GitHub · Selenium
 
 ---
 
-[LinkedIn](https://linkedin.com/in/dinelyahu) · [Portfolio](https://dineliyahu.com) · +972 50-422-9132
+## Connect
+
+[LinkedIn](https://linkedin.com/in/dinelyahu) · [Portfolio](https://dineliyahu.com)
