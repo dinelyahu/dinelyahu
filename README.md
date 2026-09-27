@@ -39,4 +39,4 @@ Python · SQL · PyTorch · Scikit-learn · Pandas · NumPy · OpenCV · Git
 
 ---
 
-[LinkedIn](https://linkedin.com/in/dinelyahu) · [Portfolio](https://dinelyahu.com) · +972 50-422-9132
+[LinkedIn](https://linkedin.com/in/dinelyahu) · [Portfolio](https://dineliyahu.com) · +972 50-422-9132
